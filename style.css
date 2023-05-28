@@ -40,7 +40,7 @@ header>h1 {
 header>p{
  color: #161416c7;
  font-family: var(--fonte-destaque);
- font-size: 1.2em;
+ font-size: 18px;
  max-width: 600px;
  margin: auto;
  margin-bottom: 20px;
